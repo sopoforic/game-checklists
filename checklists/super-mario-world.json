@@ -1,0 +1,66 @@
+{
+  "title" : "Super Mario World",
+  "author" : "Tracy Poff",
+  "url" : "https://tmft.wordpress.com/",
+  "checklist_groups" : [
+    { "name"  : "Yoshi's Island",
+      "items" : [
+        {"item" : "3-Up Moon", "description" : "Located on Yoshi's Island 1."},
+        {"item" : "Dragon Coins: Yoshi's Island 1", "description" : ""},
+        {"item" : "Dragon Coins: Yoshi's Island 2", "description" : ""},
+        {"item" : "Dragon Coins: Yoshi's Island 3", "description" : ""},
+        {"item" : "Dragon Coins: Yoshi's Island 4", "description" : ""}
+      ]
+    },
+    { "name"  : "Donut Plains",
+      "items" : [
+        {"item" : "3-Up Moon", "description" : ""},
+        {"item" : "Dragon Coins: Donut Plains 1", "description" : ""},
+        {"item" : "Dragon Coins: Donut Plains 2", "description" : ""},
+        {"item" : "Dragon Coins: Donut Plains 3", "description" : ""},
+        {"item" : "Dragon Coins: Donut Plains 4", "description" : ""},
+        {"item" : "Dragon Coins: Donut Secret 1", "description" : "Contains 7 coins."},
+        {"item" : "Dragon Coins: Donut Secret 2", "description" : ""}
+      ]
+    },
+    { "name"  : "Vanilla Dome",
+      "items" : [
+        { "item" : "3-Up Moon", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Dome 1", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Dome 2", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Ghost House", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Dome 3", "description" : "Contains 6 coins."},
+        {"item" : "Dragon Coins: Vanilla Dome 4", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Secret 1", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Secret 2", "description" : ""},
+        {"item" : "Dragon Coins: Vanilla Secret 3", "description" : ""}
+      ]
+    },
+    { "name"  : "Twin Bridges",
+      "items" : [
+        {"item" : "3-Up Moon", "description" : ""}
+      ]
+    },
+    { "name"  : "Forest of Illusion",
+      "items" : [
+        { "item" : "3-Up Moon",
+          "description" : ""
+        }
+      ]
+    },
+    { "name"  : "Chocolate Island",
+      "items" : [
+        { "item" : "3-Up Moon",
+          "description" : ""
+        }
+      ]
+    },
+    { "name"  : "Valley of Bowser",
+      "items" : [
+        { "item" : "3-Up Moon",
+          "description" : ""
+        }
+      ]
+    }
+  ]
+}

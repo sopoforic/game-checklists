@@ -1,0 +1,8 @@
+{
+  "manifest" : [
+    {
+      "title" : "Super Mario World",
+      "url"   : "checklists/super-mario-world.json"
+    }
+  ]
+}
